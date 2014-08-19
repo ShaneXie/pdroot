@@ -1,0 +1,14 @@
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\FederationSampleUI.exe.config
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\FederationSampleUI.exe
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\FederationSampleUI.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\EnzoAzureCore.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\EnzoAzureLibFederation.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\EnzoAzureCore.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\bin\Debug\EnzoAzureLibFederation.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.csprojResolveAssemblyReference.cache
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.Form1.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.FormBuildIndex.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.Properties.Resources.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.csproj.GenerateResource.Cache
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.exe
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\FederationSampleUI\obj\x86\Debug\FederationSampleUI.pdb

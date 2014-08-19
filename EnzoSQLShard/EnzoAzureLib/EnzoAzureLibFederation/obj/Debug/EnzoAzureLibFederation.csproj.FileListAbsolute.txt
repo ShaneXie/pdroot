@@ -1,0 +1,7 @@
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\bin\Debug\EnzoAzureLibFederation.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\bin\Debug\EnzoAzureLibFederation.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\bin\Debug\EnzoAzureCore.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\bin\Debug\EnzoAzureCore.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\obj\Debug\EnzoAzureLibFederation.csprojResolveAssemblyReference.cache
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\obj\Debug\EnzoAzureLibFederation.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\EnzoAzureLibFederation\obj\Debug\EnzoAzureLibFederation.pdb

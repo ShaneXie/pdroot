@@ -1,0 +1,7 @@
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\bin\Debug\EnzoAzureLibCompressed.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\bin\Debug\EnzoAzureLibCompressed.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\bin\Debug\EnzoAzureCore.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\bin\Debug\EnzoAzureCore.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\obj\Debug\EnzoAzureLibCompressed.csprojResolveAssemblyReference.cache
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\obj\Debug\EnzoAzureLibCompressed.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLibCompressed\obj\Debug\EnzoAzureLibCompressed.pdb

@@ -1,0 +1,4 @@
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureCore\bin\Debug\EnzoAzureCore.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureCore\bin\Debug\EnzoAzureCore.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureCore\obj\Debug\EnzoAzureCore.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureCore\obj\Debug\EnzoAzureCore.pdb

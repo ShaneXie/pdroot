@@ -1,0 +1,17 @@
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\CompressedSampleUI.exe.config
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\CompressedSampleUI.exe
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\CompressedSampleUI.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\EnzoAzureCore.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\EnzoAzureLibCompressed.dll
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\EnzoAzureCore.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\bin\Debug\EnzoAzureLibCompressed.pdb
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.csprojResolveAssemblyReference.cache
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.Form1.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.FormConfigure.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.FormConfigureHelp.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.FormHowToUseApp.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.FormMain.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.Properties.Resources.resources
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.csproj.GenerateResource.Cache
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.exe
+C:\Users\an.xie\Documents\Visual Studio 2013\Projects\EnzoSQLShard\EnzoAzureLib\CompressedSampleUI\obj\x86\Debug\CompressedSampleUI.pdb

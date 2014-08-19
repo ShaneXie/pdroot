@@ -1,0 +1,218 @@
+﻿[
+{
+"title": "Login Page",
+"path": "loginscreen.asp",
+"url": "loginscreen.asp",
+"keys": "loginscreen.asp|Payworks Web Login|Remember Customer ID|Remember Username|Previous Year End Data|Forget Your Password?|Self Service Login Video|Unable To Login?"
+},
+{
+"title": "Portal Page",
+"path": "portalScreen.asp",
+"url": "portalScreen.asp",
+"keys": "portalScreen.asp|Quick Payroll|Quick HR|Customer Information|Company Bulletins|Quick ETM,Quick Admin"
+},
+{
+"title": " Employee Timesheets beta",
+"path": "pagescripts/tna/dailyhours_beta.asp",
+"url": "genericscreen.asp?sectionID=352&MainTitle=tna&SubTitle=dailyhours_beta&MenuID=353",
+"keys": "ETM|dailyhours_beta.asp|Please select the date range and which employee(s) to view.|Select an Individual Employee or All,Load Employee List"
+},
+{
+"title": " Employee Timesheets",
+"path": "pagescripts/tna/dailyhours.asp",
+"url": "genericscreen.asp?sectionID=352&MainTitle=tna&SubTitle=dailyhours&MenuID=353",
+"keys": "ETM|dailyhours.asp|Please select the date range and which employee(s) to view.|Select an Individual Employee or All,Load Employee List"
+},
+{
+"title": "Business Info",
+"path": "pagescripts/payrollsetup/payrollsetupbusinessinfo.asp",
+"url": "genericscreen.asp?sectionID=1&MainTitle=payrollsetup&SubTitle=businessinfo&MenuID=9",
+"keys": "Payroll|Payroll Setup|Business Info|Company Name - French|Company Name - English|Active Payworks User Accounts|Module Access"
+},
+{
+"title": "Business Numbers",
+"path": "pagescripts/payrollsetup/payrollsetupbusinessnums.asp",
+"url": "genericscreen.asp?sectionID=1&MainTitle=payrollsetup&SubTitle=businessnums&MenuID=10",
+"keys": "Payroll|Payroll Setup|Employment Insurance Rate|Alternate data for this Business Number|Remittance Frequency|Payworks to remit Stats|Entered Business Numbers"
+}
+,
+{
+"title": "Benefits Information",
+"path": "pagescripts/payrollsetup/payrollsetupbenefits.asp",
+"url": "genericscreen.asp?sectionID=1&MainTitle=payrollsetup&SubTitle=benefits&MenuID=20",
+"keys": "Payroll|Payroll Setup|Statement Description|Calculation Information|Calculation Basis|Taxable - Provincial|Target to carry over at year-end|Entered Benefits"
+},
+{
+"title": "Personal Information",
+"path": "pagescripts/employeesetup/employeesetup.asp",
+"url": "genericscreen.asp?sectionID=2&MainTitle=employeesetup&SubTitle=personalinfo&MenuID=27",
+"keys": "Payroll|employee setup|Provincial Business Number|Personal Tax Credits|Labour - Sponsored Fund"
+},
+{
+"title": "Employee Importer",
+"path": "EmployeeImporter/pages/EmployeeImport.aspx",
+"url": "EmployeeImporter/pages/EmployeeImport.aspx?MenuID=418",
+"keys": "Payroll|employee setup|Filter Imports|Select Import Type|"
+},
+{
+"title": "Banking Information",
+"path": "pagescripts/employeesetup/employeesetupbankinginfo.asp",
+"url": "genericscreen.asp?sectionID=2&MainTitle=employeesetup&SubTitle=bankinginfo&MenuID=29",
+"keys": "Payroll|employee setup| Direct Deposit"
+},
+{
+"title": "Pay Grid View",
+"path": "pagescripts/empayrollentries/empayrollentriespaygrid.asp",
+"url": "genericscreen.asp?sectionID=3&MainTitle=empayrollentries&SubTitle=paygrid&MenuID=35",
+"keys": "Payroll|Employee Payroll Entries|Pay Period Ending Date"
+},
+{
+"title": "Current Payrun Details",
+"path": "pagescripts/genpay/genpaycurrentpayrun.asp",
+"url": "genericscreen.asp?sectionID=4&MainTitle=genpay&SubTitle=currentpayrun&MenuID=43",
+"keys": "Payroll|Generate payroll|Lock Timesheets|Regenerate Standard Reports|Email Pay Statement Notifications|Payroll Preview|Year end preview|run report"
+}
+,
+{
+"title": "Company Setup",
+"path": "pagescripts/hrsetup/hrsetupcompanies.asp",
+"url": "genericscreen.asp?sectionID=104&MainTitle=hrsetup&SubTitle=companies&MenuID=211",
+"keys": "Human Resources / HR Setup / companies |Company Name|Company Table"
+}
+,
+{
+"title": "Salary / Rate Unit Setup",
+"path": "pagescripts/hrsetup/hrsetupsalaryfactors.asp",
+"url": "genericscreen.asp?sectionID=104&MainTitle=hrsetup&SubTitle=salaryfactors&MenuID=251",
+"keys": "Human Resources / HR Setup / Salary / Rate Units |Salary / Rate Unit Description|Salary / Rate Unit Table"
+}
+,
+{
+"title": "Position Category Setup",
+"path": "pagescripts/hrsetup/hrsetupjobcategories.asp",
+"url": "genericscreen.asp?sectionID=104&MainTitle=hrsetup&SubTitle=jobcategories&MenuID=208",
+"keys": "Human Resources / HR Setup / Position Categories Position Category Table"
+}
+,
+{
+"title": "Current Employees",
+"path": "pagescripts/hr/hrinfo.asp",
+"url": "genericscreen.asp?sectionID=105&MainTitle=hr&SubTitle=info&MenuID=111",
+"keys": "Human Resources / Employee Demographics / Current Employees Contact Details Emergency Contacts Marital Status Dependants (Non-Spousal) Mailing Details"
+}
+,
+{
+"title": "Employee Benefit Plans",
+"path": "pagescripts/hr/hrbenefits.asp",
+"url": "genericscreen.asp?sectionID=107&MainTitle=hr&SubTitle=benefits&MenuID=269",
+"keys": "Human Resources / Compensation & Benefits / Benefits"
+}
+,
+{
+"title": "Position History",
+"path": "pagescripts/hr/hremppositions.asp",
+"url": "genericscreen.asp?sectionID=291&MainTitle=hr&SubTitle=emppositions&MenuID=413",
+"keys": "Human Resources / Positions / Current Positions Position [Work Group/Location/Division Position Group Codes"
+}
+,
+{
+"title": "Employee Benefit Plans",
+"path": "pagescripts/hr/hrbenefits.asp",
+"url": "genericscreen.asp?sectionID=107&MainTitle=hr&SubTitle=benefits&MenuID=269",
+"keys": "Human Resources / Compensation & Benefits / Benefits"
+}
+,
+{
+"title": "Company Rules",
+"path": "Scheduling/Manager/CompanyRules.aspx",
+"url": "Scheduling/Manager/CompanyRules.aspx?MenuID=331",
+"keys": "Time Management / Company Setup etm Time Off Requests Schedule Defaults Scheduling Agent Availability Search Shift Limits Schedule Changes Schedule View Punch In/Out Defaults Duplicate Punch Handling Device Communications Miscellaneous"
+},
+{
+"title": "Time Off Setup",
+"path": "pagescripts/tna/tnaabstrack.asp",
+"url": "genericscreen.asp?sectionID=330&MainTitle=tna&SubTitle=abstrack&MenuID=396",
+"keys": "Time Management / ETM Setup / Absence Management Time Off Table"
+}
+,
+{
+"title": "Generate Schedule",
+"path": "Scheduling/Manager/GenerateSchedule.aspx",
+"url": "Scheduling/Manager/GenerateSchedule.aspx?MenuID=358",
+"keys": "Time Management / Employee Suitability Setup Time Management / Generate Schedule  STEP 1 Choose your schedule."
+}
+,
+{
+"title": "Employee Suitability Setup",
+"path": "Scheduling/Manager/EmployeeWeighting.aspx",
+"url": "Scheduling/Manager/EmployeeWeighting.aspx?MenuID=335",
+"keys": "Time Management / Employee Suitability Setup "
+}
+,
+{
+"title": "Time Off Requests",
+"path": "Scheduling/Manager/TimeOffManagement.aspx",
+"url": "Scheduling/Manager/TimeOffManagement.aspx?MenuID=344",
+"keys": "Time Management / Time Off Approvals "
+}
+,
+{
+"title": "Employee Stat Pay Approvals",
+"path": "pagescripts/tna/dailyhoursstatpayapproval.asp",
+"url": "genericscreen.asp?sectionID=503&MainTitle=tna&SubTitle=dailyhoursstatpayapproval&MenuID=362",
+"keys": "Time Management / Time Management / Statutory Holiday Calculator stat calc Show Only Employees Entitled to Stat Pay Override Provincial Entitlement Rules Stat Worked Paid at 1.5 X regular rate Stat Holiday"
+}
+,
+{
+"title": "Employee Schedule Importer",
+"path": "Scheduling/Manager/ScheduleImporter.aspx",
+"url": "Scheduling/Manager/ScheduleImporter.aspx?MenuID=550",
+"keys": "Time Management / Employee Schedule Importer Import Mapping Parameters"
+},
+{
+"title": "View Standard Payroll Reports",
+"path": "pagescripts/reports/reportsviewstandard.asp",
+"url": "genericscreen.asp?sectionID=6&MainTitle=reports&SubTitle=viewstandard&MenuID=59",
+"keys": "Reports / Payroll Reports / View Standard Payroll Reports Select Reports to view"
+},
+{
+"title": "Generate an Extra Report",
+"path": "pagescripts/reports/reportsgenerate.asp",
+"url": "genericscreen.asp?sectionID=6&MainTitle=reports&SubTitle=generate&MenuID=63",
+"keys": "Reports / Payroll Reports / Generate extra report Select Source of Extra report Create Modify Extra Reports"
+},
+{
+"title": "Ad Hoc Report Builder",
+"path": "pagescripts/hrreports/hrreportsadhocreports.asp",
+"url": "genericscreen.asp?sectionID=112&MainTitle=hrreports&SubTitle=adhocreports&MenuID=295",
+"keys": "Reports / Report Builder / Ad Hoc Report Builder Select Data Group Select Fields Please select a Data Group Report Details"
+},
+{
+"title": "Payworks User administration",
+"path": "pagescripts/adminusr/adminusradminusr.asp",
+"url": "genericscreen.asp?sectionID=385&MainTitle=adminusr&SubTitle=adminusr&MenuID=370",
+"keys": "Administrators / Administration Tools Enable Security Levels Initial Employee Security Level Create or Edit an Existing Payworks User Account Link User to Employee Database User Access Active Payworks User Accounts Site Admin Restricted Access Module Access"
+}
+,
+{
+"title": "Set User Screen Level Access",
+"path": "pagescripts/adminusr/adminusrsetscreenlevels.asp",
+"url": "genericscreen.asp?sectionID=385&MainTitle=adminusr&SubTitle=setscreenlevels&MenuID=374",
+"keys": "Administrators / Administration Tools / Set User Screen Level Access Non Site Administrators Only  Screen Level Access can only be set for users with access to the module"
+}
+,
+{
+"title": "Trouble Ticket",
+"path": "pagescripts/adminusr/adminusrtroubleticket.asp",
+"url": "genericscreen.asp?sectionID=313&MainTitle=adminusr&SubTitle=troubleticket&MenuID=313",
+"keys": "Administrators / Submit Trouble Ticket / Trouble Ticket Please describe the issue or problem as clearly as you can. Submit when ready - press once only:"
+}
+,
+{
+"title": "Edit Bulletins",
+"path": "Bulletins/bulletins.aspx",
+"url": "Bulletins/bulletins.aspx?MenuID=395",
+"keys": "Administrators / Edit Bulletins Subject Enable Bulletin Optional Bulletin Scheduling Enter / Edit New Message Below Company Wide Bulletins"
+}
+
+]

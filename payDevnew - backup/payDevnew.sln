@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payDevnew", "payDevnew\payDevnew.csproj", "{EDBFF8F1-1BBA-4244-91AF-B215DE23744E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnzoAzureCore", "..\EnzoSQLShard\EnzoAzureCore\EnzoAzureCore.csproj", "{CD2C7A2B-4E6F-4666-AD2E-F227C3483ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnzoAzureLib", "..\EnzoSQLShard\EnzoAzureLib\EnzoAzureLib.csproj", "{0DF81868-0010-4A57-88B6-D417AC548420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnzoAzureLibCompressed", "..\EnzoSQLShard\EnzoAzureLibCompressed\EnzoAzureLibCompressed.csproj", "{F2CB21C8-D255-45EF-B75D-C67D9A0077FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBFF8F1-1BBA-4244-91AF-B215DE23744E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBFF8F1-1BBA-4244-91AF-B215DE23744E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBFF8F1-1BBA-4244-91AF-B215DE23744E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBFF8F1-1BBA-4244-91AF-B215DE23744E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2C7A2B-4E6F-4666-AD2E-F227C3483ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2C7A2B-4E6F-4666-AD2E-F227C3483ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2C7A2B-4E6F-4666-AD2E-F227C3483ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2C7A2B-4E6F-4666-AD2E-F227C3483ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF81868-0010-4A57-88B6-D417AC548420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF81868-0010-4A57-88B6-D417AC548420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF81868-0010-4A57-88B6-D417AC548420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF81868-0010-4A57-88B6-D417AC548420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CB21C8-D255-45EF-B75D-C67D9A0077FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CB21C8-D255-45EF-B75D-C67D9A0077FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CB21C8-D255-45EF-B75D-C67D9A0077FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CB21C8-D255-45EF-B75D-C67D9A0077FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

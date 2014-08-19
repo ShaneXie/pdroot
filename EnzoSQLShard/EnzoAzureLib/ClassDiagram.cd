@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PYN.EnzoAzureLib.ShardExpanded">
+    <Position X="7.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAAAgAAAAAgIBBAAABAAAAAAiCAAAAAAAAA=</HashCode>
+      <FileName>ShardStrategyExpanded.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PYN.EnzoAzureLib.Shard">
+    <Position X="11" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAgAAAAAgAAgAAADAAQCAACAAAAAAAAAA=</HashCode>
+      <FileName>Shard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PYN.EnzoAzureLib.ShardCore">
+    <Position X="2.75" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PYN.EnzoAzureLib.ShardCore.PreProcessConnectionDelegate" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Enum Name="PYN.EnzoAzureLib.ShardCore.ShardOperationMode">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="PYN.EnzoAzureLib.ShardCore.ShardExecutionOptions">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PYN.EnzoAzureLib.PYNExtensions">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PYN.EnzoAzureLib.ShardExtensions">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Delegate Name="PYN.EnzoAzureLib.CacheRequestDelegate" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShardStrategyExpanded.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="PYN.EnzoAzureLib.CacheSaveDelegate" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAIAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShardStrategyExpanded.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
